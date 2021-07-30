@@ -16,8 +16,7 @@
 <br />
 <br />
 
-Hi there, I created a javascriot crud website : <br/>
-you can creating content and add to the list ,has tabs which is been ,manipulated by the dom , search, delete, create 👨🏽‍💼. 
+Hi there, I created a simple vanilla  javascriot crud website : <br/> 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
